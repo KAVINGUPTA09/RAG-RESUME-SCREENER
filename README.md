@@ -49,6 +49,13 @@ An advanced, production-ready **Retrieval-Augmented Generation (RAG)** pipeline 
    ```bash
    git clone [https://github.com/KAVINGUPTA09/RAG-RESUME-SCREENER.git](https://github.com/KAVINGUPTA09/RAG-RESUME-SCREENER.git)
    cd RAG-RESUME-SCREENER
+Markdown
+## 📦 Local Installation & Setup
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/KAVINGUPTA09/RAG-RESUME-SCREENER.git](https://github.com/KAVINGUPTA09/RAG-RESUME-SCREENER.git)
+   cd RAG-RESUME-SCREENER
 Install Dependencies:
 
 Bash
@@ -76,5 +83,4 @@ Rank	Candidate Name	Match Score (1-100)	Fitment Reason
 └── README.md                  # System Documentation
 🛡️ Core Data Privacy Disclaimer
 This enterprise screener adheres strictly to data compliance standards. The pipeline does not store personal candidate identifiers globally; data ingestion and vector tokenization happen strictly within the user's localized session environment.
-
 
