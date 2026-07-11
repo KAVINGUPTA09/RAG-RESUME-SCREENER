@@ -97,3 +97,4 @@ When a multi-domain Job Description (e.g., Healthcare MIS / EDI 837 / HIPAA Anal
 ## 🛡️ Core Data Privacy Disclaimer
 
 This enterprise screener adheres strictly to data compliance standards. The pipeline does not store personal candidate identifiers globally — data ingestion and vector tokenization happen strictly within the user's localized session environment.
+The runnable ui deployed link-https://rag-resume-screener-gxexzf9nw6763gb2ibhrkh.streamlit.app/
