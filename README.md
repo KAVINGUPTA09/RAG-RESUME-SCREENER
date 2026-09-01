@@ -11,7 +11,9 @@ An advanced, production-ready **Retrieval-Augmented Generation (RAG)** pipeline 
 
 ---
 
-## 🚀 Key Architecture & Features
+## 🚀 Key Architecture & Features  
+
+
 
 - 🧠 **Semantic Embedding Matrix** — Utilizes `all-MiniLM-L6-v2` via **SentenceTransformers** to map complex candidate experiences into high-dimensional vector spaces.
 - 🗄️ **High-Performance Vector Store** — Powered by **ChromaDB** using Cosine Similarity metrics to fetch the most contextually relevant candidate text blocks.
@@ -82,8 +84,7 @@ When a multi-domain Job Description (e.g., Healthcare MIS / EDI 837 / HIPAA Anal
 | 3 | MounikaReddy | 75 | Extensive healthcare domain expertise, specifically with HIPAA EDI transactions (837/835) and implementation configurations. |
 
 ---
-
-## 📂 Repository Structure
+ 📂 Repository Structure
 
 ```
 ├── app.py                     # Main Streamlit application UI & logic
